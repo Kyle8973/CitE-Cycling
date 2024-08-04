@@ -46,17 +46,17 @@ The Website Allows For The Following:
 - This Page Should Also Calculate And Display The Total Distance Travelled And Power Output For Each Club As Well As The Average Distance Travelled And Power Output For Each Club
 - Club Data Can Be Found In The club Table.
 
-## Update The Power Outputs And Distance Travelled Of The Participants
+## Update The Power Outputs And Distance Travelled Of The Participants:
 
 - Allow Users To Update The Power Output And Distance Travelled For Each Participant
 - These Are The Only Two Fields That The User Should Be Able To Update For Each Participant
 - Participant Data Can Be Found In The participant Table
 
-## Delete Current Participants
+## Delete Current Participants:
 
 - Allow Users To Delete Participants. Necessary Validation Should Be Included To Limit Accidental Deletion And Human Error
 - Participant Data Can Be Found In The participant Table.
 
-## License
+## License:
 
 This Project Is Licensed Under The [GNU General Public License V3.0](LICENSE). Adherence To The Terms And Conditions Of The License Is Required.
