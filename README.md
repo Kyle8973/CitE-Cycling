@@ -59,4 +59,4 @@ The Website Allows For The Following:
 
 ## License:
 
-This Project Is Licensed Under The [GNU General Public License V3.0](LICENSE). Adherence To The Terms And Conditions Of The License Is Required.
+This Project Is Licensed Under The [MIT License](LICENSE). Adherence To The Terms And Conditions Of The License Is Required.
